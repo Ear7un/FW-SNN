@@ -80,6 +80,10 @@ Download and place datasets in the data directory:
 | GTZAN | [Kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) |
 | SHD | [Zenke Lab](https://zenkelab.org/datasets/SHD/) |
 
+## Note
+
+This repository currently contains the **VGG9-SNN** implementation used for UrbanSound8K and GTZAN experiments. The **Spikformer**-based implementation for SHD (Spiking Heidelberg Digits) uses a different architecture and will be released in a future update.
+
 ## Project Structure
 
 ```
